@@ -4,7 +4,7 @@ import "./style.css";
 const Footer = () => (
 	<footer className = "page-footer">
 		<div className = "container-fluid text-center">
-			<p>Sheila_Ng</p>
+			<p>Coppyright@Sheila_Ng</p>
 		</div>	
 	</footer>
 );
