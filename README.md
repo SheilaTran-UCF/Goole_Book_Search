@@ -98,5 +98,5 @@ Add a `README.md` to your repository describing the project. Here are some resou
 <img src="./client/public/images/Capture1.PNG" width="100%">
 <img src="./client/public/images/Capture.PNG" width="100%">
 <img src="./client/public/images/Capture3.PNG" width="100%">
-<img src="./client/public/images/Capture4.PNG" width="100%">
 <img src="./client/public/images/Capture5.PNG" width="100%">
+<img src="./client/public/images/Capture4.PNG" width="100%">
